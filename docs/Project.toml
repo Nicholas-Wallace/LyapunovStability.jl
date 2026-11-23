@@ -1,5 +1,9 @@
 [deps]
 Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+LyapunovStability = "60b2b4f5-d89a-480e-bb85-23ffe94ac3ab"
 
 [compat]
 Documenter = "1"
+
+[sources]
+LyapunovStability = {path = ".."}
